@@ -8,16 +8,16 @@ Repositório para armazenar projetos relacionada à logo (ou outras imagens) do 
 
 Fontes usadas:
 
-*Dingbats — para o binário
-*DejaVu Sans — para as palavras 
+* Dingbats — para o binário
+* DejaVu Sans — para as palavras 
 
-## Autor original:
-
-[Arthur Araújo, 05 de Abril 2013](http://tutzstyle.com/portfolio/raul-hacker-club/)
-
-## Licença:
-
-[Creative Commons (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/deed.pt) (mesma do site do autor, onde foi publicado pela primeira vez) 
+> **Autor original:**
+>
+> [Arthur Araújo, 05 de Abril 2013](http://tutzstyle.com/portfolio/raul-hacker-club/)
+>
+> **Licença:**
+>
+> [Creative Commons (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/deed.pt) (mesma do site do autor, onde foi publicado pela primeira vez) 
 
 ## PNG
 
